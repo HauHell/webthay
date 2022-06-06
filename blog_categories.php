@@ -200,7 +200,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
                                                                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                                                                 <h4 class="modal-title" id="myModalLabel">Edit Category</h4>
                                                             </div>
-                                                            <form role="form" name="frm_edit" method="POST" action="">
+                                                            <form role="form" name="frm_edit" method="POST" action="blog_category.php">
                                                             <div class="modal-body">                                                           
                                        
                                                                     <div class="form-group">
