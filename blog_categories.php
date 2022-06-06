@@ -125,7 +125,7 @@ if($_SERVER['REQUEST_METHOD']=='POST'){
                             <div class="panel-body">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <form role="form" method="POST" action="blog_categories.php">
+                                    <form role="form" method="POST" action="">
                                        
                                         <div class="form-group">
                                             <label>Category Title</label>
